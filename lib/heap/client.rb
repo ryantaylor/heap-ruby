@@ -1,5 +1,4 @@
 require 'faraday'
-require 'faraday_middleware'
 
 # This is the class of the Heap object.
 class HeapAPI::Client
